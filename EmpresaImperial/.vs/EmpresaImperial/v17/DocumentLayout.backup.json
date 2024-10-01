@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\xd\\EmpresaImperial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A72E069-A993-45A2-A526-7501DF063A4F}|Models\\Models.csproj|d:\\xd\\empresaimperial\\models\\requestresponse\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A72E069-A993-45A2-A526-7501DF063A4F}|Models\\Models.csproj|solutionrelative:models\\requestresponse\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80046D65-F8C2-4072-80D0-3BCB1D5BD265}|API\\API.csproj|d:\\xd\\empresaimperial\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80046D65-F8C2-4072-80D0-3BCB1D5BD265}|API\\API.csproj|solutionrelative:api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80046D65-F8C2-4072-80D0-3BCB1D5BD265}|API\\API.csproj|d:\\xd\\empresaimperial\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80046D65-F8C2-4072-80D0-3BCB1D5BD265}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E501BE50-B949-45E9-8121-2C8F116DD277}|IBussines\\IBussines.csproj|d:\\xd\\empresaimperial\\ibussines\\iauthbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E501BE50-B949-45E9-8121-2C8F116DD277}|IBussines\\IBussines.csproj|solutionrelative:ibussines\\iauthbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A72E069-A993-45A2-A526-7501DF063A4F}|Models\\Models.csproj|d:\\xd\\empresaimperial\\models\\requestresponse\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A72E069-A993-45A2-A526-7501DF063A4F}|Models\\Models.csproj|solutionrelative:models\\requestresponse\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80046D65-F8C2-4072-80D0-3BCB1D5BD265}|API\\API.csproj|d:\\xd\\empresaimperial\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80046D65-F8C2-4072-80D0-3BCB1D5BD265}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80046D65-F8C2-4072-80D0-3BCB1D5BD265}|API\\API.csproj|d:\\xd\\empresaimperial\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80046D65-F8C2-4072-80D0-3BCB1D5BD265}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CD7CAA-B214-4DCB-8A05-EA7BAD491FF3}|DBModel\\DBModel.csproj|d:\\xd\\empresaimperial\\dbmodel\\db\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CD7CAA-B214-4DCB-8A05-EA7BAD491FF3}|DBModel\\DBModel.csproj|solutionrelative:dbmodel\\db\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA99CF4D-4347-48DB-A3E2-E823F594F8A4}|Bussines\\Bussines.csproj|d:\\xd\\empresaimperial\\bussines\\usuariobussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA99CF4D-4347-48DB-A3E2-E823F594F8A4}|Bussines\\Bussines.csproj|solutionrelative:bussines\\usuariobussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C469970C-437F-4749-8569-EC0891AAAEDD}|Repository\\Repository.csproj|d:\\xd\\empresaimperial\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C469970C-437F-4749-8569-EC0891AAAEDD}|Repository\\Repository.csproj|solutionrelative:repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80046D65-F8C2-4072-80D0-3BCB1D5BD265}|API\\API.csproj|d:\\xd\\empresaimperial\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80046D65-F8C2-4072-80D0-3BCB1D5BD265}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA99CF4D-4347-48DB-A3E2-E823F594F8A4}|Bussines\\Bussines.csproj|d:\\xd\\empresaimperial\\bussines\\authbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA99CF4D-4347-48DB-A3E2-E823F594F8A4}|Bussines\\Bussines.csproj|solutionrelative:bussines\\authbussines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084B28B2-AFDF-4B24-9562-6D0937435B49}|IRepository\\IRepository.csproj|d:\\xd\\empresaimperial\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084B28B2-AFDF-4B24-9562-6D0937435B49}|IRepository\\IRepository.csproj|solutionrelative:irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:58:32.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T14:46:55.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:39:30.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthBussines.cs",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\Bussines\\AuthBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\AuthBussines.cs",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\Bussines\\AuthBussines.cs",
+              "RelativeToolTip": "Bussines\\AuthBussines.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:38:43.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\Models\\RequestResponse\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Models\\RequestResponse\\LoginResponse.cs",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\Models\\RequestResponse\\LoginResponse.cs",
+              "RelativeToolTip": "Models\\RequestResponse\\LoginResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:35:22.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthBussines.cs",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\IBussines\\IAuthBussines.cs",
+              "RelativeDocumentMoniker": "IBussines\\IAuthBussines.cs",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\IBussines\\IAuthBussines.cs",
+              "RelativeToolTip": "IBussines\\IAuthBussines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:33:07.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioBussines.cs",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\Bussines\\UsuarioBussines.cs",
+              "RelativeDocumentMoniker": "Bussines\\UsuarioBussines.cs",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\Bussines\\UsuarioBussines.cs",
+              "RelativeToolTip": "Bussines\\UsuarioBussines.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:28:31.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\API\\Controllers\\UsuarioController.cs*",
+              "RelativeToolTip": "API\\Controllers\\UsuarioController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:09:14.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRequest.cs",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\Models\\RequestResponse\\UsuarioRequest.cs",
+              "RelativeDocumentMoniker": "Models\\RequestResponse\\UsuarioRequest.cs",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\Models\\RequestResponse\\UsuarioRequest.cs",
+              "RelativeToolTip": "Models\\RequestResponse\\UsuarioRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T01:08:15.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T15:03:52.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\IRepository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "IRepository\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\IRepository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "IRepository\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:25:05.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Username.cs",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\DBModel\\DB\\Username.cs",
+              "RelativeDocumentMoniker": "DBModel\\DB\\Username.cs",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\DBModel\\DB\\Username.cs",
+              "RelativeToolTip": "DBModel\\DB\\Username.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:16:10.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "D:\\xd\\EmpresaImperial\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UsuarioRepository.cs",
+              "ToolTip": "D:\\xd\\EmpresaImperial\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T00:15:14.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

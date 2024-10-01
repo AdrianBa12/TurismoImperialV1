@@ -1,0 +1,15 @@
+
+
+Data Source=DESKTOP-CVPFOKO;Initial Catalog=TerminalImperial;Integrated Security=True
+
+
+
+Scaffold-DbContext "Data Source=DESKTOP-CVPFOKO;Initial Catalog=Libreria_Saber;Integrated Security=True;Trusted_Connection=true;Trust Server Certificate=true" Microsoft.EntityFrameworkCore.SqlServer  -OutputDir TramiteDocumentario -DataAnnotations -Context -Force
+
+
+
+Scaffold-DbContext "Data Source=DESKTOP-CVPFOKO;Initial Catalog=Libreria_Saber;Integrated Security=True;Trusted_Connection=true;Trust Server Certificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutPutDir DB -Force
+
+
+
+Scaffold-DbContext "Data Source=DESKTOP-PIEF6RR\MSSQLSERVERDEV2; Initial Catalog=ImperialDB;Integrated Security=True;Trusted_Connection=true;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DB

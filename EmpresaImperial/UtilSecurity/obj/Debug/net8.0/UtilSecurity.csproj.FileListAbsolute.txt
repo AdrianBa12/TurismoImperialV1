@@ -1,0 +1,14 @@
+D:\xd\EmpresaImperial\UtilSecurity\bin\Debug\net8.0\UtilSecurity.deps.json
+D:\xd\EmpresaImperial\UtilSecurity\bin\Debug\net8.0\UtilSecurity.runtimeconfig.json
+D:\xd\EmpresaImperial\UtilSecurity\bin\Debug\net8.0\UtilSecurity.dll
+D:\xd\EmpresaImperial\UtilSecurity\bin\Debug\net8.0\UtilSecurity.pdb
+D:\xd\EmpresaImperial\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.AssemblyReference.cache
+D:\xd\EmpresaImperial\UtilSecurity\obj\Debug\net8.0\UtilSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\xd\EmpresaImperial\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfoInputs.cache
+D:\xd\EmpresaImperial\UtilSecurity\obj\Debug\net8.0\UtilSecurity.AssemblyInfo.cs
+D:\xd\EmpresaImperial\UtilSecurity\obj\Debug\net8.0\UtilSecurity.csproj.CoreCompileInputs.cache
+D:\xd\EmpresaImperial\UtilSecurity\obj\Debug\net8.0\UtilSecurity.dll
+D:\xd\EmpresaImperial\UtilSecurity\obj\Debug\net8.0\refint\UtilSecurity.dll
+D:\xd\EmpresaImperial\UtilSecurity\obj\Debug\net8.0\UtilSecurity.pdb
+D:\xd\EmpresaImperial\UtilSecurity\obj\Debug\net8.0\UtilSecurity.genruntimeconfig.cache
+D:\xd\EmpresaImperial\UtilSecurity\obj\Debug\net8.0\ref\UtilSecurity.dll
